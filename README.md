@@ -5,5 +5,10 @@ I have started learning Java from basics.
 - basic loops
 - Star Pattern Program
 - Number Pattern Program
+- DataTypesDemo.java
+- InputOutput.java
+- EvenOdd.java
+- positiveNegative.java
+- calculator.java
   
 More programs will be added as I learn.
